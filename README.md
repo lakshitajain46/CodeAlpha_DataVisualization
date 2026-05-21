@@ -29,5 +29,7 @@ Titanic Dataset
 ## 📈 Conclusion
 The project successfully demonstrates how data visualization helps in understanding relationships, patterns, and trends within the Titanic dataset through graphical analysis.
 
-## 🚀 Author
-Lakshita JainMN
+
+
+
+
